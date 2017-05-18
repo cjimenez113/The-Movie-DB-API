@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-family: 'Inknut Antiqua', serif;
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMbbyYJAzGRQaOdTlhMA1v4AguojhuvSmN0eOjfewhzB-qi1I-nw");
+
+}
+
+.addbutton{
+  margin-bottom: 10px;
+}
+
+
+.selected{
+  color:#6B5E62;
+  padding:10px;
+  background-color: #EAFFFD;
+  border:3px solid black;
+  border-radius: 50px;
+  margin-left:5px;
+  margin-top:5px;
+}
+
+.movie{
+  color:#6B5E62;
+  background-color:#EAFFFD;
+  border-radius: 50px;
+  border:3px solid black;
+
+
+}
+
+.well{
+  color:black;
+}
+
+.searchbar{
+margin-top:20px;
+text-align: center;
+}
+
+.searchtext{
+background-color:rgb(214, 245, 247);
+}
+.list{
+  padding-right:58px
+}
+
+.deletebutton{
+  margin-left:4px;
+}
